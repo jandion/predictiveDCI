@@ -1,0 +1,9 @@
+processing_unit:
+  model_time: 1
+  resources: 10
+  window_duration: 30
+event_generator:
+  lambda: 0.2
+  generators_per_unit: 100
+simmulation:
+  duration: 100
